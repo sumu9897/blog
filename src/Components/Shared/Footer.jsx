@@ -3,7 +3,7 @@ const Footer = () => {
         <footer className="bg-neutral text-neutral-content p-6 mt-10 border-t border-gray-200">
             <div className="max-w-screen-xl mx-auto flex flex-col md:flex-row justify-between items-center">
                 <div className="text-center md:text-left">
-                    <p className="text-sm">
+                    <p className="text-sm text-black">
                         &copy; {new Date().getFullYear()} Blog. All Rights Reserved.
                     </p>
                 </div>
